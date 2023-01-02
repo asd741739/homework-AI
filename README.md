@@ -1,1 +1,1 @@
-# BigGAN-text-to-picture
+# BigGAN text to picture
